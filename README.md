@@ -1,7 +1,7 @@
 # Cyber-Security
 
-A compilation of cyber security projects using Python & Jupyter Notebooks.
+Cyber security projects using Python & Jupyter Notebooks.
 
 ## Projects 
 
-### [Example DDOS Script](https://github.com/DaveRoppo/Data-Analysis/tree/main/COVID19)
+### [Example DDOS Script](https://github.com/DaveRoppo/Cyber-Security/tree/main/Example%20DDOS)
