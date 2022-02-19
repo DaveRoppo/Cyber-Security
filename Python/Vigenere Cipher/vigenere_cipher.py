@@ -1,4 +1,4 @@
-#My Take on the Vigenere Cypher
+#My Take on the Vigenere Cipher
 #Add Encrypt vs decrypt option
 #Add User Keyword choice
 #5 subkeys = 5 letter keyword
