@@ -3,19 +3,19 @@
 
 ## *Labs*
 
-### [Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
+#### [Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
 
-### [Azure Sentinel (SIEM) Lab]
+#### [Azure Sentinel (SIEM) Lab]
 
-### [Active Directory Lab]
+#### [Active Directory Lab]
 
 ## *PowerShell*
 
-### [File Integrity Monitor]
+#### [File Integrity Monitor]
 
 ## *Python*
 
-### [Example DDOS Script](https://github.com/DaveRoppo/Cyber-Security/tree/main/Example%20DDOS)
+#### [Example DDOS Script](https://github.com/DaveRoppo/Cyber-Security/tree/main/Example%20DDOS)
 
 ### [System Healh Check Script](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/System%20Health%20Check)
 
