@@ -24,3 +24,8 @@
 ### [Vigener Cipher]
 
 ### [Password Generator]
+
+## Bash
+
+### [Automate Backup to External Drive]
+
