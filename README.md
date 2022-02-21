@@ -9,11 +9,11 @@
 
 ### [Active Directory Lab]
 
-## PowerShell
+## *PowerShell*
 
 ### [File Integrity Monitor]
 
-## Python
+## *Python*
 
 ### [Example DDOS Script](https://github.com/DaveRoppo/Cyber-Security/tree/main/Example%20DDOS)
 
@@ -29,7 +29,7 @@
 
 ### [Caesar Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Caesar%20Cipher)
 
-## Bash
+## *Bash*
 
 ### [Automate Backup to External Drive]
 
