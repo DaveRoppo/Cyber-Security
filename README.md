@@ -7,6 +7,8 @@
 
 ### [Azure Sentinel (SIEM) Lab]
 
+### [Active Directory Lab]
+
 ## PowerShell
 
 ### [File Integrity Monitor]
