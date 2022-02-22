@@ -10,6 +10,7 @@
       -*export VISUAL=nano*
       -*export EDITOR=nano*
       -This is only valid for the current session, to make it permanent, do the following:
+      
       ![bash1](bash1.png)
          
 5. *source ~/.bashrc*
