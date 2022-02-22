@@ -1,3 +1,5 @@
+* Disclaimer: This script is for educational purposes only *
+
 ## What is a keylogger?
 
 Simply put, a key logger is a software that is designed to log key strokes. The program may be designed to send the recorded keystrokes to an attacker or just log them to a server. 
