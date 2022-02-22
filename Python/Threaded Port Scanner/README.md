@@ -6,3 +6,7 @@ Port Scanners are used for determining which ports on a network are open and cou
 ## What is multithreading?
 Multithreading is used to achieve multitasking. Multithreading is defined as the ability of a processor to execute multiple threads concurrently. A thread is a sequence of instructions within a program that can be executed independently of other code. Without the use of multithreading, this python script would run extremely slow, because it will just scan one port after another. With multithreadin, we will allow be able to run multiple scanning functions simultaneously.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/DaveRoppo/Cyber-Security/blob/main/LICENSE) file for details
+
+## Acknowlegements
