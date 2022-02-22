@@ -8,5 +8,3 @@ The Vigenere Cipher is one of many methods of encrypting alphabetic text. It use
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/DaveRoppo/Cyber-Security/blob/main/LICENSE) file for details
-
-## Acknowlegements
