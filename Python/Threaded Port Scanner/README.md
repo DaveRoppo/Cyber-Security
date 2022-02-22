@@ -10,3 +10,4 @@ Multithreading is used to achieve multitasking. Multithreading is defined as the
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/DaveRoppo/Cyber-Security/blob/main/LICENSE) file for details
 
 ## Acknowlegements
+This project was inspired by NeuralNine's Python Port Scanner blog article  
