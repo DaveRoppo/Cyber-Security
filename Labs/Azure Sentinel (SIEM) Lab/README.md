@@ -6,3 +6,6 @@ attacks from all around the world. Then, using a custom PowerShell script, I wil
 - Azure Sentinel (SIEM)
 - Oracle VM Virtual Box 
 - PowerShell
+
+
+### Acknowledgements
