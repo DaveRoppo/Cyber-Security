@@ -1,4 +1,4 @@
-# *Cyber-Security Projects*
+# **Cybersecurity Projects**
 (about)
 
 ## *Labs*
@@ -21,7 +21,7 @@
 
 #### [Keylogger]
 
-#### [Port Scanner]
+#### [Port Scanner](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Threaded%20Port%20Scanner)
 
 #### [Vigener Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Vigenere%20Cipher)
 
