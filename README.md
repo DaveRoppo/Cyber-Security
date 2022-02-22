@@ -31,5 +31,5 @@
 
 ## *Bash*
 
-#### [Automate Backup to External Drive]
+#### [Automate Backup to External Drive](https://github.com/DaveRoppo/Cyber-Security/tree/main/Bash/Automating%20Backup%20to%20an%20External%20Drive)
 
