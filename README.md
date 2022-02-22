@@ -1,5 +1,4 @@
 # **Cybersecurity Projects**
-(about)
 
 ## *Labs*
 
