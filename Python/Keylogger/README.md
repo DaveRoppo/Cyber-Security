@@ -5,8 +5,8 @@
 Simply put, a key logger is a software that is designed to log key strokes. The program may be designed to send the recorded keystrokes to an attacker or just log them to a server. 
 
 Use cases:
-- Parental supervison of a child's computer use
-- Employer supervision of employee's computer use
+- Parental supervison of child computer use
+- Employer supervision of employee computer use
 - Malicious intent (logging users account passwords and other sensitive information)
 
 ## License
