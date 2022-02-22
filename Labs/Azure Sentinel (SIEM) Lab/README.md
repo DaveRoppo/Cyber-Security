@@ -1,10 +1,13 @@
 ## About
-In this project, I set up Microsoft Sentinel (SIEM) and connect it to a live virtual machine in Azure which will act as a honey pot. From there, I will observe and log incoming RDP Brute Force attacks from all around the world using a log analytics workspace in Azure. Then, using a custom PowerShell script, I will look up the attackers' geolocation information and plot it on the Azure Sentinel Map.
+In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and connect it to a live virtual machine (created in Azure) which will act as a honey pot. From there, I will observe and log incoming live RDP Brute Force attacks from all around the world using a log analytics workspace in Azure. Then, using a custom PowerShell script and a geolocation.io API key, I will look up the attackers' geolocation information and plot it on the Azure Sentinel Map.
 
 ## Tools Used 
-- Remote Desktop 
 - Microsoft Azure
-- Microsoft Sentinel (SIEM)
+  - Microsoft Sentinel
+  - Azure Virtual Machine
+  - Azure Log Analytics Workspace
+- geolocation.io
+- Remote Desktop 
 - Oracle VM Virtual Box 
 - PowerShell
 
