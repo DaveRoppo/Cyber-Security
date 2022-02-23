@@ -8,6 +8,8 @@
 
 #### [Active Directory Lab]
 
+#### [Raspberry Pi OWASP GoatWeb Homelab]
+
 ## *PowerShell*
 
 #### [File Integrity Monitor]
