@@ -4,7 +4,7 @@
 
 #### [Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
 
-#### [Azure Sentinel (SIEM) Lab]
+#### [Microsoft Sentinel (SIEM) Lab]
 
 #### [Active Directory Lab]
 
