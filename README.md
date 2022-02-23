@@ -1,16 +1,18 @@
 # **Cybersecurity Projects**
 
-## *Labs*
+## *Virtual Machine Labs*
 
 #### [Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
 
-#### [Microsoft Sentinel (SIEM) Lab]
+#### [Microsoft Sentinel (SIEM) Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Microsoft%20Sentinel%20(SIEM)%20Lab)
 
 #### [Active Directory Lab]
 
 ## *PowerShell*
 
 #### [File Integrity Monitor]
+
+#### [Log Exporter Script]
 
 ## *Python*
 
