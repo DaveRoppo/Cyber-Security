@@ -11,6 +11,10 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and c
 - Oracle VM Virtual Box 
 - PowerShell
 
+## Result
+
+## Lessons Learned
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/DaveRoppo/Cyber-Security/blob/main/LICENSE) file for details
 
