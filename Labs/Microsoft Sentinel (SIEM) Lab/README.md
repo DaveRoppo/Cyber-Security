@@ -7,12 +7,11 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and c
   - Azure Virtual Machine
   - Azure Log Analytics Workspace
 - geolocation.io
-- Remote Desktop 
-- Oracle VM Virtual Box 
+- Remote Desktop (RDP) 
 - PowerShell
 
 ## Result
-
+- Observed over 5k brute force attacks in less than 1 hour
 ## Lessons Learned
 
 ## License
