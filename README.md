@@ -18,9 +18,9 @@
 
 ## *Python*
 
-#### [Example DDOS Script](https://github.com/DaveRoppo/Cyber-Security/tree/main/Example%20DDOS)
+#### [Example DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Example%20DDOS)
 
-#### [System Healh Check Script](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/System%20Health%20Check)
+#### [System Healh Check](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/System%20Health%20Check)
 
 #### [Keylogger](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Keylogger)
 
