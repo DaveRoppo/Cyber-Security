@@ -8,7 +8,7 @@
 
 #### [Active Directory Lab]
 
-#### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/blob/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab/README.md)
+#### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
 
 ## *PowerShell*
 
