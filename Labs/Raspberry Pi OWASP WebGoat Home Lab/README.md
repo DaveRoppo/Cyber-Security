@@ -41,7 +41,7 @@ sudo docker run -p 8080:8080 -t cambarts/webgoat-8.0-rpi
 - In a web browser, navigate to RaspPI_IP_Address:8080/WebGoat and register for an account!
 
 ## Acknowledgements
-This project was inspired by Gerald Auger - Simply Cyber's Raspberry Pi Cybersecurity homelab
-[Kali Linux Docker Documentation](https://www.kali.org/docs/containers/installing-docker-on-kali/)
-[Docker containers explained](https://www.docker.com/resources/what-container)
-[OWASP WebGoat](https://owasp.org/www-project-webgoat/)
+- This project was inspired by Gerald Auger - Simply Cyber's Raspberry Pi Cybersecurity homelab
+- [Kali Linux Docker Documentation](https://www.kali.org/docs/containers/installing-docker-on-kali/)
+- [Docker containers explained](https://www.docker.com/resources/what-container)
+- [OWASP WebGoat](https://owasp.org/www-project-webgoat/)
