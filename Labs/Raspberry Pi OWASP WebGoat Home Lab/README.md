@@ -2,7 +2,13 @@
 
 ## About
 
+In this project, I will set up and run OWASP's WebGoat application in a docker container on my [Raspberry Pi 4 running Kali Linux]() to practice offensive security skills.
+
+## What is WebGoat?
+
 "WebGoat is a deliberately insecure application that allows interested developers just like you to test vulnerabilities commonly found in Java-based applications that use common and popular open source components."
+
+## What is Docker?
 
 ## Installation 
 
