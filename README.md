@@ -10,12 +10,6 @@
 
 #### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
 
-## *PowerShell*
-
-#### [File Integrity Monitor]
-
-#### [Log Exporter Script]
-
 ## *Python*
 
 #### [Example DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Example%20DDOS)
@@ -31,6 +25,10 @@
 #### [Password Generator](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Password%20Generator)
 
 #### [Caesar Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Caesar%20Cipher)
+
+## *PowerShell*
+
+#### [File Integrity Monitor]
 
 ## *Bash*
 
