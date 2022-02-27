@@ -6,8 +6,6 @@
 
 #### [Microsoft Sentinel (SIEM) Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Microsoft%20Sentinel%20(SIEM)%20Lab)
 
-#### [Active Directory Lab]
-
 #### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
 
 ## *Python*
