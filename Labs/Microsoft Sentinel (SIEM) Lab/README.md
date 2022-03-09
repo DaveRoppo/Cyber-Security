@@ -21,9 +21,20 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and c
 ![Map](15.png)
 
 ## Lessons Learned
+- Within one hour of setting up this virtual machine, we observed over 5000 brute force attacks. With that being said, malicious actors are constantly scouring the web for vulnerable machines. If nothing else, this project should reinforce the principle of **password strength & security**.
+
+### Tips For Creating and Managing Strong Passwords (As recomended by NCCIC)
+- Use multi-factor authentication when available
+- Use different passwords on different systems and accounts
+- Don't use passwords that are based on personal information that can be easily accessed or guessed
+- Use the longest password or passphrase permissible by each password system
+- Don't use words that can be found in any dictionary of any language
+
+For more information regarding password security, see [Choosing and Protecting Passwords](https://www.cisa.gov/uscert/ncas/tips/ST04-002)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/DaveRoppo/Cyber-Security/blob/main/LICENSE) file for details
 
 ### Acknowledgements
 This project was inspired by Josh Madakor's Azure Sentinel SIEM Lab 
+
