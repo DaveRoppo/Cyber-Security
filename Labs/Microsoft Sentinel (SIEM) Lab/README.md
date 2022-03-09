@@ -22,11 +22,11 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and c
 
 ## Process
 
-### Creating the honeypot virtual machine in Microsoft Azure
+### Creating the honeypot virtual machine (Windows 10) in Microsoft Azure
 ![honeypot](18.png)
 ### Setting up the Log Analytics Workspace in Microsoft Azure
 ![LAW](7.png)
-### Utilizing a Powershell script to pull geolocation data from geolocation.io for failed RDP logs (To use in a heatmap in Microsoft Sentinel)
+### Utilizing a Powershell script (Credit: Josh Madakor) to pull geolocation data from geolocation.io for failed RDP logs (To use in a heatmap in Microsoft Sentinel)
 ![powershell](11.png)
 ### Cleaning the log data generated from failed RDP attempts 
 ![cleaning](9.png)
