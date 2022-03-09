@@ -26,7 +26,7 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and c
 ![honeypot](18.png)
 ### Setting up the Log Analytics Workspace in Microsoft Azure
 ![LAW](7.png)
-### Utilizing a Powershell script (Credit: Josh Madakor) to pull geolocation data from geolocation.io for failed RDP logs (To use in a heatmap in Microsoft Sentinel)
+### Utilizing a Powershell script (Credit: Josh Madakor) to pull geolocation data from geolocation.io for failed RDP logs (To later use in our heatmap in Microsoft Sentinel)
 ![powershell](11.png)
 ### Cleaning the log data in our Log Analytics Workspace generated from failed RDP attempts 
 ![cleaning](9.png)
