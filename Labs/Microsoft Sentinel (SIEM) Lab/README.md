@@ -30,7 +30,7 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and c
 - Use the longest password or passphrase permissible by each password system
 - Don't use words that can be found in any dictionary of any language
 
-For more information regarding password security, see [Choosing and Protecting Passwords](https://www.cisa.gov/uscert/ncas/tips/ST04-002)
+For more information regarding password security, see [Choosing and Protecting Passwords](https://www.cisa.gov/uscert/ncas/tips/ST04-002) and [Supplementing Passwords](https://www.cisa.gov/uscert/ncas/tips/ST05-012)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/DaveRoppo/Cyber-Security/blob/main/LICENSE) file for details
