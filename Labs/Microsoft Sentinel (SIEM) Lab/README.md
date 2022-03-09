@@ -23,7 +23,7 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and c
 ## Lessons Learned
 - Within one hour of setting up this virtual machine, we observed over 5000 brute force attacks. With that being said, malicious actors are constantly scouring the web for vulnerable machines. If nothing else, this project should reinforce the principle of **password strength & security**.
 
-### Tips For Creating and Managing Strong Passwords (As recomended by NCCIC)
+### Tips For Creating and Managing Strong Passwords (As recommended by NCCIC)
 - Use multi-factor authentication when available
 - Use different passwords on different systems and accounts
 - Don't use passwords that are based on personal information that can be easily accessed or guessed
