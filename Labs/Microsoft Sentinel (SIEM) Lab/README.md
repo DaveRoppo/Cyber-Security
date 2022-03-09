@@ -12,6 +12,10 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and c
 
 ## Result
 - Observed over 5k brute force attacks in less than 1 hour
+![Event Viewer](16.png)
+![Chart](14.png)
+![Map](15.png)
+
 ## Lessons Learned
 
 ## License
