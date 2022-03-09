@@ -12,16 +12,30 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and c
 
 ## Result
 
-#### Observed over 5000 brute force attacks in less than 1 hour
+### Observed over 5000 brute force attacks in less than 1 hour
 ![Event Viewer](16.png)
 
 ![Chart](14.png)
 
-#### Heatmap generated using log data from the Azure Log Analytics Workspace & geolocation data pulled from geolocation.io
+### Heatmap generated using log data from the Azure Log Analytics Workspace & geolocation data pulled from geolocation.io
 ![Map](15.png)
 
+## Process
+
+### Creating the honeypot virtual machine in Microsoft Azure
+![honeypot](18.png)
+### Setting up the Log Analytics Workspace in Microsoft Azure
+![LAW](7.png)
+### Utilizing a Powershell script to pull geolocation data from geolocation.io for failed RDP logs (To use in a heatmap in Microsoft Sentinel)
+![powershell](11.png)
+### Cleaning the log data generated from failed RDP attempts 
+![cleaning](9.png)
+### Finally, running a query in Microsoft Sentinel against our data in the Log Analytics Workspace to produce the heatmap shown above
+![query](13.png)
+
+
 ## Lessons Learned
-- Within one hour of setting up this virtual machine, we observed over 5000 brute force attacks. With that being said, malicious actors are constantly scouring the web for vulnerable machines. If nothing else, this project should reinforce the principle of **password strength & security**.
+- Within one hour of setting up this virtual machine, we observed over 5000 brute force attacks (Our 1000 free API requests from geolocation.io were gone in minutes). With that being said, malicious actors are constantly scouring the web for vulnerable machines. If nothing else, this project should reinforce the principle of **password strength & security**.
 
 ### Tips For Creating and Managing Strong Passwords (As recommended by NCCIC)
 - Use multi-factor authentication when available
