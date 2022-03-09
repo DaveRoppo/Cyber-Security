@@ -14,7 +14,10 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and c
 
 #### Observed over 5000 brute force attacks in less than 1 hour
 ![Event Viewer](16.png)
+
 ![Chart](14.png)
+
+#### Heatmap generated using log data from the Azure Log Analytics Workspace & geolocation data pulled from geolocation.io
 ![Map](15.png)
 
 ## Lessons Learned
