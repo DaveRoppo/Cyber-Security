@@ -11,7 +11,8 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel (SIEM) and c
 - PowerShell
 
 ## Result
-- Observed over 5k brute force attacks in less than 1 hour
+
+#### Observed over 5000 brute force attacks in less than 1 hour
 ![Event Viewer](16.png)
 ![Chart](14.png)
 ![Map](15.png)
