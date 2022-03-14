@@ -12,13 +12,13 @@
 
 #### [Example DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Example%20DDOS)
 
-#### [System Healh Check](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/System%20Health%20Check)
+#### [System Health Check](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/System%20Health%20Check)
 
 #### [Keylogger](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Keylogger)
 
 #### [Threaded Port Scanner](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Threaded%20Port%20Scanner)
 
-#### [Vigener Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Vigenere%20Cipher)
+#### [Vigenere Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Vigenere%20Cipher)
 
 #### [Password Generator](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Password%20Generator)
 
