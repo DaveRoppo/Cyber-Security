@@ -10,7 +10,7 @@
 
 ## *Python*
 
-#### [Example DDOS]([https://github.com/DaveRoppo/Cyber-Security/tree/main/Example%20DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20DDOS))
+#### [Example DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20DDOS)
 
 #### [System Health Check](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/System%20Health%20Check)
 
