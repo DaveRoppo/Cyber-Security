@@ -1,6 +1,6 @@
 # **Cybersecurity Projects**
 
-## *Homelab Projects*
+## *VM Homelab Projects*
 
 #### [Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
 
