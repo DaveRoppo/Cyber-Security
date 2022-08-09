@@ -8,7 +8,7 @@
 
 #### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
 
-## *Python*
+## *Python Scripts*
 
 #### [Example DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20DDOS)
 
@@ -26,11 +26,11 @@
 
 #### [Caesar Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Caesar%20Cipher)
 
-## *PowerShell*
+## *PowerShell Scripts*
 
 #### [File Integrity Monitor]
 
-## *Bash*
+## *Bash Scripts*
 
 #### [Automate Backup to External Drive](https://github.com/DaveRoppo/Cyber-Security/tree/main/Bash/Automating%20Backup%20to%20an%20External%20Drive)
 
