@@ -10,6 +10,12 @@
 
 ## *Python Scripts*
 
+#### [TCP Client & Server]
+
+#### [NMAP Automation]
+
+#### [Banner Grabber]
+
 #### [Example DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20DDOS)
 
 #### [Example Ransomware](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20Ransomware)
