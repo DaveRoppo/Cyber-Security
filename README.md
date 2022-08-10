@@ -10,7 +10,7 @@
 
 ## *Python Scripts*
 
-#### [TCP Client & Server]
+#### [TCP Client & Server](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/TCP%20Client%20%26%20Server)
 
 #### [NMAP Automation](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/NMAP%20Automation)
 
