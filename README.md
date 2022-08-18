@@ -10,12 +10,6 @@
 
 ## *Python Scripts*
 
-#### [TCP Client & Server](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/TCP%20Client%20%26%20Server)
-
-#### [NMAP Automation](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/NMAP%20Automation)
-
-#### [Banner Grabber](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Banner%20Grabber)
-
 #### [Example DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20DDOS)
 
 #### [Example Ransomware](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20Ransomware)
@@ -25,6 +19,12 @@
 #### [Keylogger](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Keylogger)
 
 #### [Threaded Port Scanner](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Threaded%20Port%20Scanner)
+
+#### [TCP Client & Server](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/TCP%20Client%20%26%20Server)
+
+#### [NMAP Automation](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/NMAP%20Automation)
+
+#### [Banner Grabber](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Banner%20Grabber)
 
 #### [Vigenere Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Vigenere%20Cipher)
 
