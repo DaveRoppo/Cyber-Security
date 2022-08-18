@@ -2,7 +2,7 @@
 
 ## About
 
-In this project, I will set up and run OWASP's WebGoat application in a docker container on my [Raspberry Pi 4 running Kali Linux](https://github.com/DaveRoppo/Cyber-Security/tree/main/Linux/Raspberry%20Pi/Kali%20Linux%20Install) to practice offensive security skills in an isolated environment.
+In this project, I will set up and run OWASP's WebGoat application in a docker container on my Raspberry Pi 4 running Kali Linux to practice offensive security skills in an isolated environment.
 
 ## What is WebGoat?
 
