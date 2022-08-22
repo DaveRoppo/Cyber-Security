@@ -1,6 +1,6 @@
 # About
 
-In this project, I will create a Kali Linux ethical hacking homelab using Oracle VM VirtualBox.
+In this project, I will create a Kali Linux ethical hacking homelab by setting up a virtual machine in Oracle VM VirtualBox.
 
 # What is a Virtual Machine (VM)?
 
