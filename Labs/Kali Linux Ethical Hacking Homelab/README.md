@@ -12,14 +12,14 @@ According to Kali.org, Kali Linux is an open-source, Debian-based Linux distribu
 
 # 1) Download Oracle VM VirtualBox
 
-##- Navigate to virtualbox.org 
-##- Click "Download VirtualBox 6.1"
+## - Navigate to virtualbox.org 
+## - Click "Download VirtualBox 6.1"
 
 ![](vb.jpg)
-##- Select the appropriate VirtualBox package for your operating system
+## - Select the appropriate VirtualBox package for your operating system
 
 ![](host.jpg)
-##- Click "Next" to accept all default options during the installation process
+## - Click "Next" to accept all default options during the installation process
 
 # 2) Download Kali Linux
 
