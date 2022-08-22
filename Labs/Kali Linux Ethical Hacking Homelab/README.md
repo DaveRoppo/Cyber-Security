@@ -1,16 +1,16 @@
-## About
+# About
 
 In this project, I will create a Kali Linux ethical hacking homelab using Oracle VM VirtualBox.
 
-## What is a Virtual Machine (VM)?
+# What is a Virtual Machine (VM)?
 
 A virtual machine is a virtual environment created using physical hardware that operates like a physical machine with its own CPU, memory, networking, and storage. A software referred to as a hypervisor reserves portions of the physical machine's hardware for use by the virtual machine. 
 
-## Why Kali Linux?
+# Why Kali Linux?
 
 
 
-## 1) Download Oracle VM VirtualBox
+# 1) Download Oracle VM VirtualBox
 
 - Navigate to virtualbox.org 
 - Click "Download VirtualBox 6.1"
@@ -21,7 +21,7 @@ A virtual machine is a virtual environment created using physical hardware that 
 ![](host.jpg)
 - Click "Next" to accept all default options during the installation process
 
-## 2) Download Kali Linux
+# 2) Download Kali Linux
 
 - Navigate to kali.org
 - Click "Download"
@@ -34,7 +34,7 @@ A virtual machine is a virtual environment created using physical hardware that 
 
 ![](kali3.jpg)
 
-## 3) Create Virtual Machine 
+# 3) Create Virtual Machine 
 
 - Open the VirtualBox application
 - Select the blue "New" icon
@@ -74,7 +74,7 @@ A virtual machine is a virtual environment created using physical hardware that 
 ![](vm15.jpg)
 
 
-## 4) Install Kali Linux 
+# 4) Install Kali Linux 
 
 - Start the virtual machine to begin the installation process
 
@@ -121,7 +121,7 @@ A virtual machine is a virtual environment created using physical hardware that 
 ![](ki22.jpg)
 ![](post1.jpg)
 
-## Additional Resources
+# Additional Resources
 
 [Top Things to do After Installing Kali Linux](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
 
