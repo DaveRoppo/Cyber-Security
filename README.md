@@ -8,7 +8,7 @@
 
 #### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
 
-#### [Kali Linux Ethical Hacking Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Kali%20Linux%20Ethical%20Hacking%20Homelab)
+#### [Kali Linux Ethical Hacking Homelab](https://github.com/DaveRoppo/Cyber-Security/blob/main/Labs/Kali%20Linux%20Ethical%20Hacking%20Homelab/README.md)
 
 ## *Python Scripts*
 
