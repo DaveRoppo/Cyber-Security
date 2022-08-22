@@ -79,4 +79,49 @@ A virtual machine is a virtual environment created using physical hardware that 
 - Start the virtual machine to begin the installation process
 
 ![](ki1.jpg)
-- 
+- Choose your language, country, and keymap settings
+- Choose a hostname for your virtual machine
+
+![](ki5.jpg)
+- Leave "Domain Name" blank and Click "Continue"
+
+![](ki6.jpg)
+- Choose your Username & Password
+- Choose your Timezone
+- Select "Guided - Use Entire Disk" and Click "Continue"
+
+![](ki10.jpg)
+- On the partition disks page, Click "Continue" four times to accept the default disk partitioning configuration
+
+![](ki11.jpg)
+![](ki12.jpg)
+![](ki13.jpg)
+![](ki14.jpg)
+- Sit back while the base sustem installs
+
+![](ki15.jpg)
+- Accept the default software selections by Clicking "Continue"
+
+![](ki16.jpg)
+- Allow the selected software to install (This one will take some time)
+
+![](ki17.jpg)
+- Select "Yes" to install the GRUB boot loader and Click "Continue"
+
+![](ki18.jpg)
+- Leave the default disk selected and Click "Continue"
+
+![](ki19.jpg)
+- Allow the installation to finish and Click "Continue" to reboot your virtual machine
+
+![](ki20.jpg)
+![](ki21.jpg)
+- Login with your username and password you created earlier!
+
+![](ki22.jpg)
+![](post1.jpg)
+
+## Additional Resources
+
+[Top Things to do After Installing Kali Linux](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
+
