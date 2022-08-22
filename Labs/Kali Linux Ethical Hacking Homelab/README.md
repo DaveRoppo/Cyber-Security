@@ -14,7 +14,7 @@ A virtual machine is a virtual environment created using physical hardware that 
 
 - Navigate to virtualbox.org 
 - Click "Download VirtualBox 6.1"
-![vb](vb.png)
+![](vb.jpg)
 - Select the appropriate VirtualBox package for your operating system
 (IMAGE)
 - Click "Next" to accept all default options during the installation process
