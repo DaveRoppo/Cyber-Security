@@ -17,7 +17,8 @@ A virtual machine is a virtual environment created using physical hardware that 
 
 ![](vb.jpg)
 - Select the appropriate VirtualBox package for your operating system
-(IMAGE)
+
+![](host.jpg)
 - Click "Next" to accept all default options during the installation process
 
 ## 2) Download Kali Linux
