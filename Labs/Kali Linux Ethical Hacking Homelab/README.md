@@ -6,9 +6,9 @@ In this project, I will create a Kali Linux ethical hacking homelab using Oracle
 
 A virtual machine is a virtual environment created using physical hardware that operates like a physical machine with its own CPU, memory, networking, and storage. A software referred to as a hypervisor reserves portions of the physical machine's hardware for use by the virtual machine. 
 
-# Why Kali Linux?
+# Why Kali Linux for Ethical Hacking?
 
-
+According to Kali.org, Kali Linux is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. 
 
 # 1) Download Oracle VM VirtualBox
 
