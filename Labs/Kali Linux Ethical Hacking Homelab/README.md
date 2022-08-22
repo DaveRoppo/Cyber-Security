@@ -25,11 +25,14 @@ A virtual machine is a virtual environment created using physical hardware that 
 
 - Navigate to kali.org
 - Click "Download"
-(IMAGE)
+
+![](kali1.jpg)
 - Select "Bare Metal" 
-(IMAGE)
+
+![](kali2.jpg)
 - Select the appropriate iso image installer (64 bit or 32 bit) for your machine
-(IMAGE*)
+
+![](kali3.jpg)
 
 ## 3) Create Virtual Machine 
 
