@@ -10,7 +10,7 @@ A virtual machine is a virtual environment created using physical hardware that 
 
 According to Kali.org, Kali Linux is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. 
 
-# 1) Download Oracle VM VirtualBox
+# *1) Download Oracle VM VirtualBox*
 
 ### - Navigate to virtualbox.org 
 ### - Click "Download VirtualBox 6.1"
@@ -21,7 +21,7 @@ According to Kali.org, Kali Linux is an open-source, Debian-based Linux distribu
 ![](host.jpg)
 ### - Click "Next" to accept all default options during the installation process
 
-# 2) Download Kali Linux
+# 2) *Download Kali Linux*
 
 ### - Navigate to kali.org
 ### - Click "Download"
@@ -34,7 +34,7 @@ According to Kali.org, Kali Linux is an open-source, Debian-based Linux distribu
 
 ![](kali3.jpg)
 
-# 3) Create Virtual Machine 
+# *3) Create Virtual Machine* 
 
 ### - Open the VirtualBox application
 ### - Select the blue "New" icon
@@ -74,7 +74,7 @@ According to Kali.org, Kali Linux is an open-source, Debian-based Linux distribu
 ![](vm15.jpg)
 
 
-# 4) Install Kali Linux 
+# *4) Install Kali Linux*
 
 ### - Start the virtual machine to begin the installation process
 
@@ -121,7 +121,7 @@ According to Kali.org, Kali Linux is an open-source, Debian-based Linux distribu
 ![](ki22.jpg)
 ![](post1.jpg)
 
-# Additional Resources
+# *Additional Resources*
 
 ### [Top Things to do After Installing Kali Linux](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
 
