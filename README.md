@@ -34,10 +34,6 @@
 
 #### [Caesar Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Caesar%20Cipher)
 
-## *PowerShell Scripts*
-
-#### [File Integrity Monitor]
-
 ## *Bash Scripts*
 
 #### [Automate Backup to External Drive](https://github.com/DaveRoppo/Cyber-Security/tree/main/Bash/Automating%20Backup%20to%20an%20External%20Drive)
