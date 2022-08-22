@@ -6,9 +6,9 @@
 
 #### [Microsoft Sentinel (SIEM) Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Microsoft%20Sentinel%20(SIEM)%20Lab)
 
-#### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
-
 #### [Kali Linux Ethical Hacking Homelab](https://github.com/DaveRoppo/Cyber-Security/blob/main/Labs/Kali%20Linux%20Ethical%20Hacking%20Homelab/README.md)
+
+#### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
 
 ## *Python Scripts*
 
