@@ -30,15 +30,53 @@ A virtual machine is a virtual environment created using physical hardware that 
 - Select "Bare Metal" 
 
 ![](kali2.jpg)
-- Select the appropriate iso image installer (64 bit or 32 bit) for your machine
+- Select the appropriate .iso image installer (64 bit or 32 bit) for your machine
 
 ![](kali3.jpg)
 
 ## 3) Create Virtual Machine 
 
 - Open the VirtualBox application
-- 
+- Select the blue "New" icon
+
+![](vm1.jpg)
+- Name your virtual machine anything you would like, for "Type:" Select "Linux", for "Version:" Select "Debian (64 bit)"
+
+![](vm3.jpg)
+- Allocate atleast 2GB of memory to your virtual machine (the more the merrier, however 2GB should work fine!)
+
+![](vm4.jpg)
+- Select "Create Virtual Hard Disk Now" and Click "Create"
+
+![](vm5.jpg)
+- Select "VDI (VirtualBox Disk Image)"
+
+![](vm6.jpg)
+- Select "Dynamically Allocated" 
+
+![](vm7.jpg)
+- Allocate atleast 8GB of storage to your virtual machine's hard disk
+
+![](vm8.jpg)
+- On the VirtualBox Home page, Click the orange "Settings" icon
+
+![](vm9.jpg)
+- Navigate to the "Storage" tab in the settings window
+
+![](vm11.jpg)
+- Under "Controller: IDE", Right-Click "Empty" and Select "Remove", then Click the "Add optical drive" icon to the right of "Controller: IDE"
+
+![](vm12.jpg)
+- Click "Add" and navigate to your Kali Linux .iso image that we downloaded earlier, then Click "Choose" followed by "OK" to exit settings
+
+![](vm13.jpg)
+![](vm14.jpg)
+![](vm15.jpg)
+
 
 ## 4) Install Kali Linux 
 
--
+- Start the virtual machine to begin the installation process
+
+![](ki1.jpg)
+- 
