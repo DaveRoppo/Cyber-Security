@@ -10,6 +10,7 @@ A virtual machine is a virtual environment created using physical hardware that 
 
 According to Kali.org, Kali Linux is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools targeted towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. 
 
+# Walkthrough
 # *1) Download Oracle VM VirtualBox*
 
 ### - Navigate to virtualbox.org 
