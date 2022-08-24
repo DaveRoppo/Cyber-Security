@@ -1,3 +1,5 @@
+*Note: the following commands are for debian-derived linux distributions*
+
 # System Maintainence:
 
 *sudo apt update -y && sudo apt upgrade -y* - Updates and upgrades the system
