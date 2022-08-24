@@ -124,12 +124,13 @@ According to Kali.org, Kali Linux is an open-source, Debian-based Linux distribu
 
 # *Additional Settings*
 
-## Shared Clipboard (Host & VM) & Drag'n'Drop (Between Host & VM)
+### Shared Clipboard (Host & VM) & Drag'n'Drop (Between Host & VM)
 
 - Open VirtualBox and Select your virtual machine
 - Click the Orange "Settings" Icon or Press CTRL + S
 - On the General Page, Navigate to the Advanced Tab
 - Select "Bidrectional" for both "Shared Clipboard" and "Drag'n'Drop"
+
 # *Additional Resources*
 
 ### [Top Things to do After Installing Kali Linux](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
