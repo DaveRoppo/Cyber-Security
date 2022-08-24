@@ -12,6 +12,8 @@
 
 ## *Python Scripts*
 
+#### [Email Scraper]()
+
 #### [Example DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20DDOS)
 
 #### [Example Ransomware](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20Ransomware)
