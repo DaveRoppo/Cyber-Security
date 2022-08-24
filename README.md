@@ -8,6 +8,8 @@
 
 #### [Kali Linux Ethical Hacking Homelab](https://github.com/DaveRoppo/Cyber-Security/blob/main/Labs/Kali%20Linux%20Ethical%20Hacking%20Homelab/README.md)
 
+#### [Metasploitable Vulnerable Machine (Ethical Hacking Homelab)](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Metasploitable%20Vulnerable%20Machine%20(Ethical%20Hacking%20Homelab))
+
 #### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
 
 ## *Python Scripts*
