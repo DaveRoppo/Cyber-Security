@@ -40,6 +40,8 @@
 
 #### [Making Bash Files Executable]()
 
+#### [Guessing Game](https://github.com/DaveRoppo/Cyber-Security/blob/main/Bash/Guessing%20Game/GuessingGame.sh)
+
 ## License
 These projects are licensed under the MIT License - see the [LICENSE.md](https://github.com/DaveRoppo/Cyber-Security/blob/main/LICENSE) file for details
 
