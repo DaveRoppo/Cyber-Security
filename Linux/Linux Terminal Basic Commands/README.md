@@ -68,6 +68,20 @@
 
 *ssh username@IP* - Secure Shell (SSH) is a network protocol administrators often use to remotely access another computer securely over an unsecured network
 
+# Operators, Redirection, and Pipe:
+
+*&&* - (Logical AND) Will execute the second command only after the first command has executed successfully
+
+*||* - (Logical OR) Will execute the second command only if the first command was unsuccessful
+
+*;* - Any commands put in after the semicolon operator will execute regardless of whether the one before was successful or not
+
+*|* - The pipe operator is used to take the output from one command and use it as the input for the next
+
+*&* - When used after a command, this operator will send that command to process in the background while running the second command in the foreground
+
+*>* - Used to redirect commnad standard output to a file
+
 # Help:
 
 *man (command)* - Displays the associated manual page for the specified command
