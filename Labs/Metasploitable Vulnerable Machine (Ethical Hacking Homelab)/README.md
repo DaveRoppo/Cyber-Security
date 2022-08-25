@@ -31,5 +31,7 @@ https://information.rapid7.com/download-metasploitable-2017.html?LS=1631875&CS=w
 
 ![](meta10.jpg)
 
+## Additonal Resources
 
+### [Understanding VirtualBox networking schemes to set up a good and safe lab](https://fabian-voith.de/2020/04/21/understanding-virtualbox-networking-schemes-to-set-up-a-good-and-safe-lab/)
 
