@@ -5,4 +5,6 @@ In this project, I will set up a vulnerable virtual machine using Metasploitable
 ## Process
 #### 1) Register & Download Metasploitable 
 
+[](meta1.jpg)
+#### 2)
 
