@@ -134,4 +134,5 @@ According to Kali.org, Kali Linux is an open-source, Debian-based Linux distribu
 # *Additional Resources*
 
 ### [Top Things to do After Installing Kali Linux](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
+### [Understanding VirtualBox networking schemes to set up a good and safe lab](https://fabian-voith.de/2020/04/21/understanding-virtualbox-networking-schemes-to-set-up-a-good-and-safe-lab/)
 
