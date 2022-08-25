@@ -30,7 +30,6 @@ https://information.rapid7.com/download-metasploitable-2017.html?LS=1631875&CS=w
 #### 9) From the VirtualBox home screen, Select the Green "Start" icon and Metasploitable will begin installing; Once finished, you will be greeted with a login screen
 
 ![](meta10.jpg)
-#### 10) Click "Enable Adapter & In the dropdown next to "Attached to:", Select "Bridged Adapter"; In the "Name" dropdown, Select your adapter (This will result in the VM being on your local network) 
 
 
 
