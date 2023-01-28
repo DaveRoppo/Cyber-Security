@@ -12,7 +12,7 @@
 #### [Metasploitable Vulnerable Machine (Ethical Hacking Homelab)](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Metasploitable%20Vulnerable%20Machine%20(Ethical%20Hacking%20Homelab))
 
 #### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
-<hr>
+---
 
 ### *Python Scripts*
 
