@@ -1,6 +1,6 @@
 # **Cybersecurity Projects**
 
-## *Virtual Machine Homelab Projects*
+### *Virtual Machine Homelab Projects*
 
 #### [Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
 
@@ -12,7 +12,7 @@
 
 #### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
 
-## *Python Scripts*
+### *Python Scripts*
 
 #### [Example DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20DDOS)
 
@@ -36,7 +36,7 @@
 
 #### [Caesar Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Caesar%20Cipher)
 
-## *Bash Scripts*
+### *Bash Scripts*
 
 #### [Automate Backup to External Drive](https://github.com/DaveRoppo/Cyber-Security/tree/main/Bash/Automating%20Backup%20to%20an%20External%20Drive)
 
@@ -44,6 +44,6 @@
 
 #### [Guessing Game](https://github.com/DaveRoppo/Cyber-Security/blob/main/Bash/Guessing%20Game/GuessingGame.sh)
 
-## License
+### License
 These projects are licensed under the MIT License - see the [LICENSE.md](https://github.com/DaveRoppo/Cyber-Security/blob/main/LICENSE) file for details
 
