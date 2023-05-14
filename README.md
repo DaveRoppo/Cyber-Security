@@ -1,5 +1,4 @@
 # **Cybersecurity Projects**
----
 
 ## *Virtual Machine Homelab Projects*
 
