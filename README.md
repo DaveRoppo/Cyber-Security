@@ -38,7 +38,7 @@
 #### [Caesar Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Caesar%20Cipher)
 <hr>
 
-## *Bash Scripts*
+### *Bash Scripts*
 
 #### [Automate Backup to External Drive](https://github.com/DaveRoppo/Cyber-Security/tree/main/Bash/Automating%20Backup%20to%20an%20External%20Drive)
 
