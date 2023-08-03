@@ -13,6 +13,12 @@
 #### [Raspberry Pi OWASP WebGoat Homelab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Raspberry%20Pi%20OWASP%20WebGoat%20Home%20Lab)
 ---
 
+### *Malware Traffic Analysi*
+
+#### [Rig Exploit Kit](https://github.com/DaveRoppo/Cyber-Security/blob/main/Malware-Traffic-Analysis/Rig%20Exploit%20Kit/README.md)
+
+---
+
 ### *Python Scripts*
 
 #### [Example DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20DDOS)
