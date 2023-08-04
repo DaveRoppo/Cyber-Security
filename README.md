@@ -17,9 +17,9 @@
 
 #### [Rig Exploit Kit](https://github.com/DaveRoppo/Cyber-Security/blob/main/Malware-Traffic-Analysis/Rig%20Exploit%20Kit/README.md)
 
-#### [Okay Boomer](https://github.com/DaveRoppo/Cyber-Security/blob/main/Malware-Traffic-Analysis/Okay%20Boomer/README.md)
+#### [Okay Boomer - Santo Maris Oia.exe](https://github.com/DaveRoppo/Cyber-Security/blob/main/Malware-Traffic-Analysis/Okay%20Boomer/README.md)
 
-#### [Cat Bomber](https://github.com/DaveRoppo/Cyber-Security/blob/main/Malware-Traffic-Analysis/Cat%20Bomber/README.md)
+#### [Cat Bomber - TRICKBOT](https://github.com/DaveRoppo/Cyber-Security/blob/main/Malware-Traffic-Analysis/Cat%20Bomber/README.md)
 ---
 
 ### *Python Scripts*
