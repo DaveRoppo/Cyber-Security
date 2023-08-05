@@ -6,6 +6,8 @@
 
 #### [Azure/Microsoft Sentinel (SIEM) Cloud Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Microsoft%20Sentinel%20(SIEM)%20Lab)
 
+#### [Kali Linux Purple VM Installation](https://github.com/DaveRoppo/Cyber-Security/blob/main/Labs/Kali%20Linux%20Ethical%20Hacking%20Homelab/README.md)
+
 #### [Kali Linux Ethical Hacking Homelab](https://github.com/DaveRoppo/Cyber-Security/blob/main/Labs/Kali%20Linux%20Ethical%20Hacking%20Homelab/README.md)
 
 #### [Metasploitable Vulnerable Machine (Ethical Hacking Homelab)](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Metasploitable%20Vulnerable%20Machine%20(Ethical%20Hacking%20Homelab))
