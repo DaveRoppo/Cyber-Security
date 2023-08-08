@@ -5,6 +5,10 @@ Protect: Implement safeguards to ensure the delivery of critical infrastructure 
 Detect: Emphasize timely detection of cyber security events through continuous monitoring and anomaly reporting.
 Respond: Take appropriate actions upon detecting a cyber security event involving response planning, communication, and mitigation.
 Recover: Restore services and operations affected by a cyber security event, focusing on recovery planning and continuous improvement." \
+
+ ![kalipurp](img/kali1.png) \
+ ![kalipurp](img/kali2.png) \
+ ![kalipurp](img/kali3.png) \
  ![kalipurp](img/1.png) \
  ![kalipurp](img/2.png) \
  ![kalipurp](img/3.png) \
