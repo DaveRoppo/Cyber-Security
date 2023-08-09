@@ -1,9 +1,9 @@
 # What is Kali Purple?
 The NIST Cybersecurity Framework 1.1 comprises five core domains that provide a high-level, strategic approach to managing cyber security risk:\
-*Identify*: Recognize the organization's assets, systems, and data, and understand the associated cyber security risks.
-*Protect*: Implement safeguards to ensure the delivery of critical infrastructure services, including access control and data security.
-*Detect*: Emphasize timely detection of cyber security events through continuous monitoring and anomaly reporting.
-*Respond*: Take appropriate actions upon detecting a cyber security event involving response planning, communication, and mitigation.
+*Identify*: Recognize the organization's assets, systems, and data, and understand the associated cyber security risks.\
+*Protect*: Implement safeguards to ensure the delivery of critical infrastructure services, including access control and data security.\
+*Detect*: Emphasize timely detection of cyber security events through continuous monitoring and anomaly reporting.\
+*Respond*: Take appropriate actions upon detecting a cyber security event involving response planning, communication, and mitigation.\
 *Recover*: Restore services and operations affected by a cyber security event, focusing on recovery planning and continuous improvement. \
 
 ## Recomended Allocations
