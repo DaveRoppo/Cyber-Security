@@ -47,6 +47,8 @@
 #### [Password Generator](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Password%20Generator)
 
 #### [Caesar Cipher](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Caesar%20Cipher)
+
+#### [Email Scraper](https://github.com/DaveRoppo/Cyber-Security/blob/main/Pentesting/5%20Stages%20of%20Pentesting/1)%20Information%20Gathering/Tools/Email%20Scraper/EmailScraper.py)
 <hr>
 
 ### *Bash Scripts*
