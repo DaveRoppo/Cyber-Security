@@ -26,6 +26,8 @@
 
 ### *Python Scripts*
 
+#### [API Fuzzer](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/API%20Fuzzer)
+
 #### [Example DDOS](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20DDOS)
 
 #### [Example Ransomware](https://github.com/DaveRoppo/Cyber-Security/tree/main/Python/Example%20Ransomware)
