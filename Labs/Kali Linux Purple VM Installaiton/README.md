@@ -35,11 +35,8 @@ The NIST Cybersecurity Framework 1.1 comprises five core domains that provide a 
  ![kalipurp](img/8.png) \
  ![kalipurp](img/9.png) \
  ![kalipurp](img/10.png) \
- ![kalipurp](img/11.png) \
  ![kalipurp](img/12.png) \
- ![kalipurp](img/13.png) \
  ![kalipurp](img/14.png) \
- ![kalipurp](img/15.png) \
  ![kalipurp](img/15.png) \
  ![kalipurp](img/16.png) \
  ![kalipurp](img/17.png) \
