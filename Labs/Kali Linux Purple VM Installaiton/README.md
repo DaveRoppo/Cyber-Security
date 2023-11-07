@@ -10,6 +10,18 @@ The NIST Cybersecurity Framework 1.1 comprises five core domains that provide a 
 2 GB of RAM
 20 GB of disk space
 
+# Walkthrough
+# *1) Download Oracle VM VirtualBox*
+
+### - Navigate to virtualbox.org 
+### - Click "Download VirtualBox 6.1"
+
+![](vb.jpg)
+### - Select the appropriate VirtualBox package for your operating system
+
+![](host.jpg)
+### - Click "Next" to accept all default options during the installation process
+
  ![kalipurp](img/kali.png) \
  ![kalipurp](img/kali2.png) \
  ![kalipurp](img/kali3.png) \
