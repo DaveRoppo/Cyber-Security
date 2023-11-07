@@ -2,9 +2,9 @@
 
 ### *Virtual Machine Homelab Projects*
 
-#### [Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
+#### [Microsoft Sentinel SIEM Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Microsoft%20Sentinel%20(SIEM)%20Lab)
 
-#### [Azure/Microsoft Sentinel (SIEM) Cloud Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Microsoft%20Sentinel%20(SIEM)%20Lab)
+#### [Nessus Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
 
 #### [Kali Linux Purple 2023.2 VM Installation](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Kali%20Linux%20Purple%20VM%20Installaiton)
 
