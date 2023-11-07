@@ -6,7 +6,7 @@
 
 #### [Nessus Vulnerability Management Lab](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Vulnerability%20Management%20Lab)
 
-#### [Kali Linux Purple 2023.2 VM Installation](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Kali%20Linux%20Purple%20VM%20Installaiton)
+#### [Kali Linux Purple 2023.2 VM Installation - VmWare Workstation Pro & Virtual Box](https://github.com/DaveRoppo/Cyber-Security/tree/main/Labs/Kali%20Linux%20Purple%20VM%20Installaiton)
 
 #### [Kali Linux VM Installation (Ethical Hacking Homelab Part 1)](https://github.com/DaveRoppo/Cyber-Security/blob/main/Labs/Kali%20Linux%20Ethical%20Hacking%20Homelab/README.md)
 
