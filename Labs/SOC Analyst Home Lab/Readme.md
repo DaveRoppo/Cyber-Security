@@ -10,3 +10,8 @@ Ubuntu Server
 Windows 11
 Elastic 
 LimaCharlie
+syslog
+Kibana
+Nmap
+Hydra
+RDP
