@@ -1,4 +1,4 @@
-*Disclaimer: This a basic example of a Ransomware attack using python. These scripts are for educational purposes only.*
+*Disclaimer: This a basic example of a Ransomware attack using python. These ransomware encryption and decryption scripts are for educational purposes only.*
 # About
 
 ## What is Ransomware?
