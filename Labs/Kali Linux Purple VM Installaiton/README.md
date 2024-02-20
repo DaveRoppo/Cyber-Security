@@ -14,7 +14,7 @@ The NIST Cybersecurity Framework 1.1 comprises five core domains that provide a 
 2 GB of RAM <br>
 20 GB of disk space
 
-# Walkthrough
+# Oracle VM VirtualBox Walkthrough
 
  ![kalipurp](img/kali.png) <br>
  
