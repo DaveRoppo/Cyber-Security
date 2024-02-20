@@ -11,7 +11,7 @@ The NIST Cybersecurity Framework 1.1 comprises five core domains that provide a 
 *Recover*: Restore services and operations affected by a cyber security event, focusing on recovery planning and continuous improvement. 
 
 ## Recomended Allocations
-2 GB of RAM
+2 GB of RAM <br>
 20 GB of disk space
 
 # Walkthrough
