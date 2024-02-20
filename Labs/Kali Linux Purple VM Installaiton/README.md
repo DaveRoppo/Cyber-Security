@@ -1,4 +1,7 @@
 # What is Kali Purple?
+
+Serving as an extension to the renowned Kali Linux platform, Kali Purple is an innovative cybersecurity distribution tailored specifically for defensive operations in the cyber domain. In contrast to the offensive security focus of traditional Kali Linux, Kali Purple broadens the platform's capabilities by integrating defensive tools and resources to address various facets of network defense. By leveraging the principles of the NIST Cybersecurity Framework, Kali Purple aims to empower users to proactively identify, respond to, and mitigate cybersecurity threats.
+
 The NIST Cybersecurity Framework 1.1 comprises five core domains that provide a high-level, strategic approach to managing cyber security risk:\
 \
 *Identify*: Recognize the organization's assets, systems, and data, and understand the associated cyber security risks.\
@@ -14,36 +17,67 @@ The NIST Cybersecurity Framework 1.1 comprises five core domains that provide a 
 # Walkthrough
 
  ![kalipurp](img/kali.png) \
+ 
  ![kalipurp](img/kali2.png) \
+ 
  ![kalipurp](img/kali3.png) \
+ 
  ![kalipurp](img/1.png) \
+ 
  ![kalipurp](img/2.png) \
+ 
  ![kalipurp](img/3.png) \
+ 
  ![kalipurp](img/4.png) \
+ 
  ![kalipurp](img/5.png) \
+ 
  ![kalipurp](img/6.png) \
+ 
  ![kalipurp](img/7.png) \
+ 
  ![kalipurp](img/8.png) \
+ 
  ![kalipurp](img/9.png) \
+ 
  ![kalipurp](img/10.png) \
+ 
  ![kalipurp](img/12.png) \
+ 
  ![kalipurp](img/14.png) \
+ 
  ![kalipurp](img/15.png) \
+ 
  ![kalipurp](img/16.png) \
+ 
  ![kalipurp](img/17.png) \
+ 
  ![kalipurp](img/18.png) \
+ 
  ![kalipurp](img/19.png) \
+ 
  ![kalipurp](img/20.png) \
+ 
  ![kalipurp](img/21.png) \ 
+ 
  ![kalipurp](img/22.png) \
+ 
  ![kalipurp](img/23.png) \
+ 
  ![kalipurp](img/24.png) \
+ 
  ![kalipurp](img/25.png) \
+ 
  ![kalipurp](img/26.png) \
+ 
  ![kalipurp](img/27.png) \
+ 
  ![kalipurp](img/28.png) \
+ 
  ![kalipurp](img/29.png) \
+ 
  ![kalipurp](img/30.png) \
+ 
  ![kalipurp](img/31.png)
 
 ## Acknowledgements
