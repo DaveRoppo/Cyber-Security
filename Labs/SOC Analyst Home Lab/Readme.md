@@ -8,10 +8,11 @@ In this project, using Microsoft Azure, I set up Microsoft Sentinel and connect 
 VMWare Workstation
 Ubuntu Server
 Windows 11
-Elastic 
 LimaCharlie
 syslog
-Kibana
-Nmap
-Hydra
-RDP
+Sliver
+EchoTrail
+VirusTotal
+MitreAttack
+
+
