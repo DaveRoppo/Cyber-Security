@@ -1,3 +1,4 @@
+# Microsoft Sentinel (SIEM) Lab
 ## What is a Security Information & Event Management (SIEM) Solution?
 Security information & event management (SIEM) solutions combine security information management (SIM) and security event management (SEM) to provide real-time monitoring and analysis of events as well as logging of security data for compliance or auditing purposes. Organizations can utilize SIEM solutions to quickly identify security threats and vulberabilities that could potentially disrupt thier operations.
 
