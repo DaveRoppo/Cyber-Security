@@ -15,7 +15,7 @@
 - Windows 11 Eval (Victim)
 ## Tools Used
 ### Offensive Toolset
-- Sliver
+- Sliver C2
 ### Defensive Toolset
 - LimaCharlie EDR
 - Sigma
@@ -31,60 +31,6 @@
 ![](img/sl1.png) <br>
 ######
 ![](img/sl2.png) <br>
-######
-![](img/vs1.png) <br>
-######
-![](img/vt1.png) <br>
-######
-![](img/vt2.png) <br>
-######
-![](img/shell.png) <br>
-######
-![](img/proc.png) <br>
-######
-![](img/priv-info.png) <br>
-######
-![](img/priv.png) <br>
-######
-![](img/netstat.png) <br>
-######
-![](img/lsass.png) <br>
-######
-![](img/lcvs.png) <br>
-######
-![](img/lcvs2.png) <br>
-######
-![](img/lcvs3.png) <br>
-######
-![](img/lcvs4.png) <br>
-######
-![](img/lc11.png) <br>
-######
-![](img/lc10.png) <br>
-######
-![](img/lc9.png) <br>
-######
-![](img/lc8.png) <br>
-######
-![](img/lc7.png) <br>
-######
-![](img/lc6.png) <br>
-######
-![](img/lc5.png) <br>
-######
-![](img/lc4.png) <br>
-######
-![](img/lc3.png) <br>
-######
-![](img/lc2.png) <br>
-######
-![](img/lc1.png) <br>
-######
-![](img/lab.png) <br>
-######
-![](img/kali.png) <br>
-######
-![](img/ip.png) <br>
 ######
 ![](img/info1.png) <br>
 ######
@@ -115,6 +61,54 @@
 ![](img/http.png) <br>
 ######
 ![](img/exit.png) <br>
+######
+![](img/shell.png) <br>
+######
+![](img/proc.png) <br>
+######
+![](img/priv-info.png) <br>
+######
+![](img/priv.png) <br>
+######
+![](img/netstat.png) <br>
+######
+![](img/lsass.png) <br>
+######
+![](img/vs1.png) <br>
+######
+![](img/vt1.png) <br>
+######
+![](img/vt2.png) <br>
+######
+![](img/lcvs.png) <br>
+######
+![](img/lcvs2.png) <br>
+######
+![](img/lcvs3.png) <br>
+######
+![](img/lcvs4.png) <br>
+######
+![](img/lc11.png) <br>
+######
+![](img/lc10.png) <br>
+######
+![](img/lc9.png) <br>
+######
+![](img/lc8.png) <br>
+######
+![](img/lc7.png) <br>
+######
+![](img/lc6.png) <br>
+######
+![](img/lc5.png) <br>
+######
+![](img/lc4.png) <br>
+######
+![](img/lc3.png) <br>
+######
+![](img/lc2.png) <br>
+######
+![](img/lc1.png) <br>
 ######
 ![](img/drvs3.png) <br>
 ######
