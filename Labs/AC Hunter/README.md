@@ -17,7 +17,7 @@ The PCAPs in the following exercises are from [Chris Brenton's Cyber Threat Hunt
 ## What is Threat Hunting
 Cyber threat hunting is a proactive approach to network security focused on actively searching for and identifying potential security threats and adversaries within an organization's network infrastructure. Unlike traditional cybersecurity measures that primarily rely on automated security tools and systems to detect known threats, threat hunting involves human-driven analysis and investigation to uncover unknown or stealthy threats that may evade detection by automated systems. This proactive approach enables organizations to reduce the gap between the failure of security controls and the initiation of response measures, significantly reducing damage or the disruption business operations.
 
-## What Are We Searching for When Threat Hunting?
+## What are we searching for when Threat Hunting?
 Because malware is often controlled from a remote host, our focus will be on targeting potential Command & Control (C2) operations. This involves identifying persistent outbound connections and abnormal protocol behaviour, verifying the business necessity of each connection, conducting reputation checks on external IP addresses, and investigating internal IP addresses as needed to determine follow-up actions, such as safelisting external IPs or triggering the incident response process.
 
 ## PCAP #1
@@ -69,8 +69,6 @@ The connections to 104[.]248.234.238 are suspicious due to the following:
 - "rmvk30g" in URIs is known to be associated with the Fiesta Exploit Kit 
 ## PCAP #2
 ######
-![](img/ac11.png) <br>
-######
 ![](img/ac12.png) <br>
 ######
 ![](img/dns.png) <br>
@@ -79,6 +77,8 @@ The connections to 104[.]248.234.238 are suspicious due to the following:
 ### Conclusion
 
 ## PCAP #3
+######
+![](img/ac11.png) <br>
 ######
 ![](img/ac13.png) <br>
 ######
