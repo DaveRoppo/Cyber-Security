@@ -20,7 +20,7 @@ Cyber threat hunting is a proactive approach to network security focused on acti
 ## What Are We Searching for When Threat Hunting?
 Because malware is often controlled from a remote host, our focus will be on targeting potential Command & Control (C2) operations. This involves identifying persistent outbound connections and abnormal protocol behaviour, verifying the business necessity of each connection, conducting reputation checks on external IP addresses, and investigating internal IP addresses as needed to determine follow-up actions, such as safelisting external IPs or triggering the incident response process.
 
-### PCAP #1
+## PCAP #1
 ###### Importing the zeek logs with RITA to analyze in the AC-Hunter web interface
 ![](img/rita.png) <br>
 ###### AC-Hunter Dashboard displaying 100% threat rating based on the criteria in "Threat Activity"
@@ -59,14 +59,15 @@ Because malware is often controlled from a remote host, our focus will be on tar
 ![](img/zeek.png) <br>
 ###### All 3011 connection include the string seen below
 ![](img/zeek2.png) <br>
-#### Conclusion
+
+### Conclusion
 The connections to 104[.]248.234.238 are suspicious due to the following:
 - There were no FQDN queries before the connections were made
 - There were over 3,000 connections diplaying beacon-like attributes
 - The user agent string shifted to Windows 7 from Windows 10
 - All connections include the long random string seen above begining with "rmvk30g"
 - "rmvk30g" in URIs is known to be associated with the Fiesta Exploit Kit 
-### PCAP #2
+## PCAP #2
 ######
 ![](img/ac11.png) <br>
 ######
@@ -75,9 +76,9 @@ The connections to 104[.]248.234.238 are suspicious due to the following:
 ![](img/dns.png) <br>
 ######
 ![](img/dns2.png) <br>
-#### Conclusion
+### Conclusion
 
-### PCAP #3
+## PCAP #3
 ######
 ![](img/ac13.png) <br>
 ######
@@ -92,4 +93,4 @@ The connections to 104[.]248.234.238 are suspicious due to the following:
 ![](img/vt2.png) <br>
 ######
 ![](img/ac_cobalt.png) <br>
-#### Conclusion
+### Conclusion
