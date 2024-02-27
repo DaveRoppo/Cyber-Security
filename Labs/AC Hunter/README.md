@@ -57,7 +57,7 @@ Because malware is often controlled from a remote host, our focus will be on tar
 ![](img/vt1.png) <br>
 ###### There were no FQDN queries for this suspicious IP prior to the connection
 ![](img/zeek.png) <br>
-###### All 3011 connection include the string seen below
+###### All 3,011 connections include the string seen below
 ![](img/zeek2.png) <br>
 
 ### Conclusion
