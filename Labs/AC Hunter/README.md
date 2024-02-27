@@ -68,29 +68,37 @@ The connections to 104[.]248.234.238 are suspicious due to the following:
 - All connections include the long random string seen above begining with "rmvk30g"
 - "rmvk30g" in URIs is known to be associated with the Fiesta Exploit Kit 
 ## PCAP #2
-######
+###### Dashboard displaying "Potential C2 Over DNS Cases Detected"
 ![](img/dns2.png) <br>
-######
-![](img/ac11.png) <br>
-######
+###### DNS module displaying over 2000 unique lookups for the honestimnotevil[.]com domain with 0 users accessing resources
 ![](img/dns.png) <br>
+###### DNS module with the subdomain threshold set to 0 displaying hex characters in the lookups
+![](img/ac11.png) <br>
 ### Conclusion
-
+The queries to honestimnotevil[.]com are suspicious because:
+- Over 2000 unique resource records
+- 0 users were accessing the requested resources
+- Host names were in hex characters, likely for the purpose of obfuscation
 ## PCAP #3
-######
+###### AC-Hunter Dashboard displaying 100% threat rating based on the criteria in "Threat Activity"
 ![](img/ac12.png) <br>
-######
+###### The Beacon Web module displaying all outbound connections with above 50% threat rating
 ![](img/ac13.png) <br>
-######
+###### Client Signature module displaying "Microsoft Internet Explorer" as the User Agent to a suspicious domain
 ![](img/ac14.png) <br>
-######
+###### Deep Dive module displaying statistics for the suspicious connection
 ![](img/ac15.png) <br>
-######
+###### Safelisting the Microsoft Office traffic
 ![](img/safe5.png) <br>
-######
+###### The spoofed "Microsoft Internet Explorer" user agent
 ![](img/ua2.png) <br>
-######
+###### Virus Total returning multiple hits for the IP in question
 ![](img/vt2.png) <br>
-######
+###### Time histogram displaying beacon-like attributes and the connection dwell time is being jittered
 ![](img/ac_cobalt.png) <br>
 ### Conclusion
+The connections to the newb02[.]skypetm[.]com.tw are suspicious because:
+- The domain name seems to be attempting to appear as a skype.com subdomain, but is not
+- The user agent "Internet Explorer" is invalid
+- The time histogram shows beacon-like consistency
+- The connection dwell time is being jittered with a curve that indicates it could be Coblat Strike C2
