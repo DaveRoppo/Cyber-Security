@@ -21,16 +21,24 @@ Cyber threat hunting is a proactive approach to network security focused on acti
 Because malware is often controlled from a remote host, our focus will be on targeting potential Command & Control (C2) operations. This involves identifying persistent outbound connections and abnormal protocol behaviour, verifying the business necessity of each connection, conducting reputation checks on external IP addresses, and investigating internal IP addresses as needed to determine follow-up actions, such as safelisting external IPs or triggering the incident response process.
 
 ### PCAP #1
-######
+###### Importing the zeek logs with RITA to analyze in the AC-Hunter web interface
 ![](img/rita.png) <br>
-######
+###### AC-Hunter Dashboard displaying 100% threat rating based on the criteria in "Threat Activity"
 ![](img/ac2.png) <br>
-######
+###### The Beacon Web module displaying all outbound connections with above 50% threat rating
 ![](img/ac3.png) <br>
+######
+![](img/safe1.png) <br>
 ######
 ![](img/ac4.png) <br>
 ######
+![](img/safe2.png) <br>
+######
 ![](img/ac5.png) <br>
+######
+![](img/safe3.png) <br>
+######
+![](img/safe4.png) <br>
 ######
 ![](img/ac6.png) <br>
 ######
@@ -46,19 +54,12 @@ Because malware is often controlled from a remote host, our focus will be on tar
 ######
 ![](img/ua1.png) <br>
 ######
-![](img/safe1.png) <br>
-######
-![](img/safe2.png) <br>
-######
-![](img/safe3.png) <br>
-######
-![](img/safe4.png) <br>
-######
 ![](img/vt1.png) <br>
 ######
 ![](img/zeek.png) <br>
 ######
 ![](img/zeek2.png) <br>
+#### Conclusion
 
 ### PCAP #2
 ######
@@ -69,6 +70,7 @@ Because malware is often controlled from a remote host, our focus will be on tar
 ![](img/dns.png) <br>
 ######
 ![](img/dns2.png) <br>
+#### Conclusion
 
 ### PCAP #3
 ######
@@ -85,3 +87,4 @@ Because malware is often controlled from a remote host, our focus will be on tar
 ![](img/vt2.png) <br>
 ######
 ![](img/ac_cobalt.png) <br>
+#### Conclusion
