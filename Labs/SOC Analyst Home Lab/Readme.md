@@ -1,3 +1,4 @@
+# SOC Analyst Home Lab
 ## About 
 [So you want to be a SOC Analyst?](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?sd=pf)
 
@@ -26,56 +27,105 @@
 - Mitre ATT&CK
 
 ## Actions
-
+######
 ![](img/sl1.png) <br>
+######
 ![](img/sl2.png) <br>
+######
 ![](img/vs1.png) <br>
+######
 ![](img/vt1.png) <br>
+######
 ![](img/vt2.png) <br>
+######
 ![](img/shell.png) <br>
+######
 ![](img/proc.png) <br>
+######
 ![](img/priv-info.png) <br>
+######
 ![](img/priv.png) <br>
+######
 ![](img/netstat.png) <br>
+######
 ![](img/lsass.png) <br>
+######
 ![](img/lcvs.png) <br>
+######
 ![](img/lcvs2.png) <br>
+######
 ![](img/lcvs3.png) <br>
+######
 ![](img/lcvs4.png) <br>
+######
 ![](img/lc11.png) <br>
+######
 ![](img/lc10.png) <br>
+######
 ![](img/lc9.png) <br>
+######
 ![](img/lc8.png) <br>
+######
 ![](img/lc7.png) <br>
+######
 ![](img/lc6.png) <br>
+######
 ![](img/lc5.png) <br>
+######
 ![](img/lc4.png) <br>
+######
 ![](img/lc3.png) <br>
+######
 ![](img/lc2.png) <br>
+######
 ![](img/lc1.png) <br>
+######
 ![](img/lab.png) <br>
+######
 ![](img/kali.png) <br>
+######
 ![](img/ip.png) <br>
+######
 ![](img/info1.png) <br>
+######
 ![](img/implant4-info.png) <br>
+######
 ![](img/implant4-4.png) <br>
+######
 ![](img/implant4-3.png) <br>
+######
 ![](img/implant4-2.png) <br>
+######
 ![](img/implant4-1.png) <br>
+######
 ![](img/implant4.png) <br>
+######
 ![](img/implant3.png) <br>
+######
 ![](img/implant2.png) <br>
+######
 ![](img/implant1-3.png) <br>
+######
 ![](img/implant1-2.png) <br>
+######
 ![](img/implant1-1.png) <br>
+######
 ![](img/implant1.png) <br>
+######
 ![](img/http.png) <br>
+######
 ![](img/exit.png) <br>
+######
 ![](img/drvs3.png) <br>
+######
 ![](img/drvs2.png) <br>
+######
 ![](img/drvs.png) <br>
+######
 ![](img/dr3.png) <br>
+######
 ![](img/dr2.png) <br>
+######
 ![](img/dr1.png) <br>
 
 
