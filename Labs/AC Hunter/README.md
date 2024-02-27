@@ -22,6 +22,66 @@ Because malware is often controlled from a remote host, our focus will be on tar
 
 ### PCAP #1
 ######
-![](img/sl1.png) <br>
+![](img/rita.png) <br>
+######
+![](img/ac2.png) <br>
+######
+![](img/ac3.png) <br>
+######
+![](img/ac4.png) <br>
+######
+![](img/ac5.png) <br>
+######
+![](img/ac6.png) <br>
+######
+![](img/ac7.png) <br>
+######
+![](img/ac8.png) <br>
+######
+![](img/ac9.png) <br>
+######
+![](img/ac10.png) <br>
+######
+![](img/acua.png) <br>
+######
+![](img/ua1.png) <br>
+######
+![](img/safe1.png) <br>
+######
+![](img/safe2.png) <br>
+######
+![](img/safe3.png) <br>
+######
+![](img/safe4.png) <br>
+######
+![](img/vt1.png) <br>
+######
+![](img/zeek.png) <br>
+######
+![](img/zeek2.png) <br>
+
 ### PCAP #2
+######
+![](img/ac11.png) <br>
+######
+![](img/ac12.png) <br>
+######
+![](img/dns.png) <br>
+######
+![](img/dns2.png) <br>
+
 ### PCAP #3
+######
+![](img/ac13.png) <br>
+######
+![](img/ac14.png) <br>
+######
+![](img/ac15.png) <br>
+######
+![](img/safe5.png) <br>
+######
+![](img/ua2.png) <br>
+######
+![](img/vt2.png) <br>
+######
+![](img/ac_cobalt.png) <br>
